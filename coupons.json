@@ -1,0 +1,20 @@
+{
+  "coupons": [
+    {
+      "code": "FEST10",
+      "type": "percent",
+      "value": 10,
+      "min_cart_value": 1000,
+      "start_date": "2025-01-01",
+      "end_date": "2025-12-31"
+    },
+    {
+      "code": "FLAT200",
+      "type": "flat",
+      "value": 200,
+      "min_cart_value": 1500,
+      "start_date": "2025-01-01",
+      "end_date": "2025-12-31"
+    }
+  ]
+}

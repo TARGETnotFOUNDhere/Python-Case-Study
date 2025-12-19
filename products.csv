@@ -1,0 +1,6 @@
+product_id,name,price,category,bogo_eligible,combo_group
+P101,Smartphone,30000,electronics,False,
+P102,Headphones,2000,electronics,True,
+P103,Casual Shirt,1500,clothing,True,A
+P104,Jeans,2500,clothing,False,A
+P105,Toaster,1800,home,False,
